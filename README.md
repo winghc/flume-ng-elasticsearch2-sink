@@ -13,27 +13,27 @@ built on top of a reactive framework.
 
 ## Modifications to your Flume lib path:
     
-    ### Libraries to be added:
-        - t-digest-3.0.jar
-        - lucene-core-5.4.1.jar
-        - jsr166e-1.1.0.jar
-        - jackson-dataformat-yaml-2.6.2.jar
-        - jackson-dataformat-smile-2.6.2.jar
-        - jackson-dataformat-cbor-2.6.2.jar
-        - jackson-core-2.6.2.jar
-        - hppc-0.7.1.jar
-        - guava-19.0.jar
-        - flume-ng-elasticsearch-sink-1.6.0.jar
-        - elasticsearch-2.2.0.jar
-        - compress-lzf-1.0.2.jar
+### Libraries to be added:
+- t-digest-3.0.jar
+- lucene-core-5.4.1.jar
+- jsr166e-1.1.0.jar
+- jackson-dataformat-yaml-2.6.2.jar
+- jackson-dataformat-smile-2.6.2.jar
+- jackson-dataformat-cbor-2.6.2.jar
+- jackson-core-2.6.2.jar
+- hppc-0.7.1.jar
+- guava-19.0.jar
+- flume-ng-elasticsearch-sink-1.6.0.jar
+- elasticsearch-2.2.0.jar
+- compress-lzf-1.0.2.jar
 
-    ### Libraries to be removed:
-        - lucene-core-4.10.4.jar
-        - jackson-mapper-asl-1.9.3.jar
-        - jackson-databind-2.3.1.jar
-        - jackson-core-asl-1.9.3.jar
-        - jackson-core-2.3.1.jar
-        - jackson-annotations-2.3.0.jar
-        - guava-11.0.2.jar
-        - flume-ng-elasticsearch-sink-1.6.0.jar
-        - elasticsearch-1.7.3.jar
+### Libraries to be removed:
+- lucene-core-4.10.4.jar
+- jackson-mapper-asl-1.9.3.jar
+- jackson-databind-2.3.1.jar
+- jackson-core-asl-1.9.3.jar
+- jackson-core-2.3.1.jar
+- jackson-annotations-2.3.0.jar
+- guava-11.0.2.jar
+- flume-ng-elasticsearch-sink-1.6.0.jar
+- elasticsearch-1.7.3.jar
